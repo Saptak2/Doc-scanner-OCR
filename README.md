@@ -40,9 +40,12 @@ The system was tested on four categories of input:
 
 | Input Type | Scan Quality | OCR Accuracy |
 |------------|--------------|--------------|
-| Printed book page | Excellent | ~95% |
-| Formal printed document | Excellent | ~90% |
-| Handwritten notes | Good | ~40% |
+| Printed book page | Slight | Excellent | ~95% |
+| Formal printed document | Flat | Excellent | ~90% |
+| Handwritten lecture notes | Mild angle | Very Good | ~35% |
+| Handwritten lecture notes | Heavy rotation | Very Good | ~30% |
+| Handwritten lecture diagram | Heavy angle | Good | ~25% |
+| Handwritten essay | Flat | Good | ~40% |
 
 
 OCR performs well on printed text but struggles with handwritten content and diagram-heavy pages, which is expected behavior for Tesseract.
