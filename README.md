@@ -38,8 +38,8 @@ OCR output will be printed to the terminal after each scan.
 
 The system was tested on four categories of input:
 
-| Input Type | Scan Quality | OCR Accuracy |
-|------------|--------------|--------------|
+| Input Type | Scan Quality | OCR Accuracy | Accuracy |
+|------------|--------------|--------------|----------|
 | Printed book page | Slight | Excellent | ~95% |
 | Formal printed document | Flat | Excellent | ~90% |
 | Handwritten lecture notes | Mild angle | Very Good | ~35% |
