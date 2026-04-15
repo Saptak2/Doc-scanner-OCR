@@ -51,11 +51,3 @@ The system was tested on four categories of input:
 OCR performs well on printed text but struggles with handwritten content and diagram-heavy pages, which is expected behavior for Tesseract.
 
 ---
-
-## References
-
-- OpenCV Documentation: https://docs.opencv.org
-- Tesseract OCR: https://github.com/tesseract-ocr/tesseract
-- Original scanning pipeline: https://github.com/andrewdcampbell/OpenCV-Document-Scanner
-
----
